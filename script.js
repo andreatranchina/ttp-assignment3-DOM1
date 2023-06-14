@@ -54,3 +54,5 @@ for (let li of liInOlArray){
 let childToRemove = document.querySelector("div.footer");
 childToRemove.parentNode.removeChild(childToRemove);
 //or childToRemove.remove()
+
+//end of hw
